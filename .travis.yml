@@ -5,4 +5,4 @@ python:
 instal:
   - make deps
 script:
-  - make tst
+  - make test
